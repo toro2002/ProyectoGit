@@ -9,5 +9,9 @@ package proyecto.git;
  * @author IRIO ELIZONDO
  */
 public class Clientes {
+
+    public Clientes() {
+        
+    }
     
 }
